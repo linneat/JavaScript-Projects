@@ -1,0 +1,9 @@
+.buttonClass{
+    display:flex;
+    margin: auto;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
